@@ -8,6 +8,7 @@ import (
 	"github.com/jsusmachaca/goroapi/internal/utils"
 )
 
+//Hise mi pull request ctm
 func SendData(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json")
 
